@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Click Find and Copy to copy .mobi files to your Documents folder</string>
+    <string name="app_name">MobiCopier</string>
+
+</resources>
